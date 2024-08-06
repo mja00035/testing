@@ -1,0 +1,19 @@
+.Header1{
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+    border: 5px solid black;
+    height: auto;
+    width: auto;
+}
+.Text0{
+    text-align: center;
+}
+.Img1{
+    height: 100px;
+    width: 100px;
+}
+.Text1{
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
